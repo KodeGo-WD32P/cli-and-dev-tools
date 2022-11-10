@@ -2,6 +2,7 @@ I think that I shall never see
 A poem lovely as a tree.
 
 A tree whose hungry mouth is prest
+<<<<<<< HEAD:first-stanza-poem.txt
 Against the earth’s sweet flowing breast;
 
 
@@ -11,3 +12,6 @@ Who intimately lives with rain.
 Poems are made by fools like me,
 But only God can make a tree.
 
+=======
+Against the earth’s sweet flowing breast
+>>>>>>> 9ce06f361c46e3f36a557fe469c4761955fd5506:Trees by Joyce Kilmer.txt
